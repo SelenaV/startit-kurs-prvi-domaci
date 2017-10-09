@@ -1,0 +1,56 @@
+.topnav {
+    background-color: #fff;
+    overflow: hidden;
+}
+.topnav a {
+	font-family: "Courier New", Courier, monospace;	
+    float: right;
+    display: block;
+    color: #747d87;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+.image {
+	text-align: center;
+}
+
+h1 {
+  font: 200 65px/0.8 'Pacifico', Helvetica, sans-serif;
+  color: #7ee5d9;
+  text-align: center;
+ }
+ h2 {
+ 	font: xx-large/0.4 "Courier New", Courier, monospace;
+ 	color: #7ee5d9;
+ 	font-weight: bold;
+ 	text-align: center;
+ }
+ h3 {
+ 	font: xx-large/0.4 "Courier New", Courier, monospace;
+ 	color: #7ee5d9;
+ 	text-align: center;
+ }
+ p {
+ 	font-family: "Courier New", Courier, monospace;	
+ 	text-align: center;
+ }
+ form{
+ 	text-align: center;
+ }
+ .input {
+ 	width:20%;
+ 	height: 2em; 
+ }
+ #message {
+ 	height: 6em;
+ }
+ footer{
+    background-color:#7ee5d9;
+ 	position:fixed;
+    bottom:0;
+    width:100%;
+    margin: 0 auto;
+}
+     
